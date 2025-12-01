@@ -4,7 +4,7 @@ Polaris Project for doing cosmology with Type Ia supernova!
 
 # Schedule
 
-Take a look at the Example_Project_Outline document for a potential schedule.
+Take a look at the Example_Research_Project document for a potential schedule.
 
 # Code 
 All the code is run through the SupernovaCosmology.ipynb file
