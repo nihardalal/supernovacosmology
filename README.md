@@ -1,5 +1,5 @@
 # Supernova Cosmology
-Polaris Project for doing cosmology with Type Ia supernova!
+Polaris Project for doing cosmology with Type Ia supernova! For reading material, start with [Dark Energy Basics](./Dark_Energy_Basics.pdf)
 
 
 ## Schedule
